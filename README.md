@@ -1,5 +1,5 @@
 
-![AI Content Generator App 3](https://github.com/rrs301/ai-content-generator/assets/20216436/af6a7cdd-9a0f-4902-8f02-aac4c96da025)
+## AI Content Generator App 3
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
@@ -17,8 +17,6 @@ pnpm dev
 bun dev
 ```
 
-Watch Video
-https://youtu.be/egQajXL7nn4
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
